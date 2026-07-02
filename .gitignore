@@ -1,0 +1,67 @@
+# ===========================
+# Operating System Files
+# ===========================
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ===========================
+# IDE Files
+# ===========================
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+*.iml
+
+# ===========================
+# Microsoft Office Temporary Files
+# ===========================
+~$*.docx
+~$*.xlsx
+~$*.xls
+~$*.pptx
+
+# ===========================
+# Log Files
+# ===========================
+*.log
+
+# ===========================
+# Postman Environment Files
+# (Ignore if they contain secrets)
+# ===========================
+*Environment*.json
+*environment*.json
+
+# ===========================
+# Backup Files
+# ===========================
+*.bak
+*.tmp
+*.temp
+
+# ===========================
+# Archive Files
+# ===========================
+*.zip
+*.rar
+*.7z
+
+# ===========================
+# Node Modules (if Newman is added later)
+# ===========================
+node_modules/
+
+# ===========================
+# Newman Reports (Future)
+# ===========================
+newman/
+reports/
+
+# ===========================
+# Environment Variables
+# ===========================
+.env
+.env.*
